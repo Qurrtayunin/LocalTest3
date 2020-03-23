@@ -1,0 +1,4 @@
+#Mon Mar 23 12:17:10 ICT 2020
+base.0=D\:\\semester 4\\Praktikum Animasi Perangkat Bergerak 2\\6. LocaleText3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

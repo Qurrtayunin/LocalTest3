@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\semester 4\\Praktikum Animasi Perangkat Bergerak 2\\6. LocaleText3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in-rID\\values-in-rID.xml",
+            "map": [
+                {
+                    "source": "D:\\semester 4\\Praktikum Animasi Perangkat Bergerak 2\\6. LocaleText3\\app\\src\\main\\res\\values-in-rID\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,6,12,15,10,7,9,8,13,11,5,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "106,57,155,513,939,1114,824,620,779,723,998,888,455,1055",
+                        "endColumns": "47,47,298,105,57,55,62,101,43,54,55,49,56,57",
+                        "endOffsets": "149,100,449,614,992,1165,882,717,818,773,1049,933,507,1108"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,151,450,556,614,670,733,835,879,934,990,1040,1097",
+                        "endColumns": "47,47,298,105,57,55,62,101,43,54,55,49,56,57",
+                        "endOffsets": "98,146,445,551,609,665,728,830,874,929,985,1035,1092,1150"
+                    }
+                }
+            ]
+        }
+    ]
+}
